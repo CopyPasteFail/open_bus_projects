@@ -1,0 +1,3 @@
+[submodule "open-bus"]
+	path = open-bus
+	url = https://github.com/hasadna/open-bus/
