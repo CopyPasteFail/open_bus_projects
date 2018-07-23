@@ -13,3 +13,4 @@
 *.apk
 /.idea/caches/build_file_checksums.ser
 /app/client/release/
+/config.log
